@@ -14,4 +14,8 @@ For this task, I analyzed unemployment data across different states in India. I 
 
 In this task, I trained multiple machine learning models to predict the selling price of used cars. I explored regression algorithms and techniques to train the model using features and historical data.
 
+## Task-04: Email Spam and Ham Classification
+
+For Task-04, I focused on email classification using the Naive Bayes classifier. The goal was to distinguish between spam and ham emails. I performed exploratory data analysis (EDA) and utilized libraries like NLTK, WordCloud, and Scikit-learn for data preprocessing and model training.
+
 Feel free to explore each task folder for detailed documentation, code, and results!
